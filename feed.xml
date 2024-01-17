@@ -1,0 +1,105 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Joe Miller</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-01-16T22:47:03-08:00</updated>
+  <author>
+    <name>Joe Miller</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Joe Miller </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>TryHackMe: Windows Privilege Escalation</title>
+    <link href="http://localhost:4000/posts/tryhackme-windows-privilege-escalation/" rel="alternate" type="text/html" title="TryHackMe: Windows Privilege Escalation" />
+    <published>2023-07-22T00:00:00-07:00</published>
+  
+    <updated>2023-07-22T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/tryhackme-windows-privilege-escalation/</id>
+    <content src="http://localhost:4000/posts/tryhackme-windows-privilege-escalation/" />
+    <author>
+      <name>Joe Miller</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+https://tryhackme.com/room/windowsprivesc20
+
+1 Introduction
+It is common in penetration tests to have access to Windows hosts with unprivileged users.
+
+2 Windows Privilege Escalation
+Some of the means of escalating privileges on Windows systems include abusing misconfigurations of Windows services or scheduled tasks, excessive privileges assigned to the current user, vulnerable software, or m...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>TryHackMe: Linux Privilege Escalation</title>
+    <link href="http://localhost:4000/posts/tryhackme-linux-privilege-escalation/" rel="alternate" type="text/html" title="TryHackMe: Linux Privilege Escalation" />
+    <published>2023-07-03T00:00:00-07:00</published>
+  
+    <updated>2023-07-03T00:00:00-07:00</updated>
+  
+    <id>http://localhost:4000/posts/tryhackme-linux-privilege-escalation/</id>
+    <content src="http://localhost:4000/posts/tryhackme-linux-privilege-escalation/" />
+    <author>
+      <name>Joe Miller</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+https://tryhackme.com/room/linprivesc
+
+1 Introduction
+Elements that may lead to privilege escalation include kernel version, installed applications, supported programming languages, and other users’ passwords.
+
+2 What is Privilege Escalation
+Privilege escalation is the process of going from a lower permission account to a higher permission one. It can be accomplished through exploitation of...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
